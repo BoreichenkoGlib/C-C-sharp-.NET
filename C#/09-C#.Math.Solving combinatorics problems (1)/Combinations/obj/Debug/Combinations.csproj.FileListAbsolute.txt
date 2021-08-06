@@ -1,0 +1,37 @@
+E:\2 курс 1 семестр\КДМ\lab3\lab3\Combinations\bin\Debug\Combinations.exe.config
+E:\2 курс 1 семестр\КДМ\lab3\lab3\Combinations\bin\Debug\Combinations.exe
+E:\2 курс 1 семестр\КДМ\lab3\lab3\Combinations\bin\Debug\Combinations.pdb
+E:\2 курс 1 семестр\КДМ\lab3\lab3\Combinations\obj\Debug\Combinations.csprojAssemblyReference.cache
+E:\2 курс 1 семестр\КДМ\lab3\lab3\Combinations\obj\Debug\Combinations.Form1.resources
+E:\2 курс 1 семестр\КДМ\lab3\lab3\Combinations\obj\Debug\Combinations.Properties.Resources.resources
+E:\2 курс 1 семестр\КДМ\lab3\lab3\Combinations\obj\Debug\Combinations.csproj.GenerateResource.cache
+E:\2 курс 1 семестр\КДМ\lab3\lab3\Combinations\obj\Debug\Combinations.csproj.CoreCompileInputs.cache
+E:\2 курс 1 семестр\КДМ\lab3\lab3\Combinations\obj\Debug\Combinations.exe
+E:\2 курс 1 семестр\КДМ\lab3\lab3\Combinations\obj\Debug\Combinations.pdb
+C:\Users\borei\OneDrive\Рабочий стол\кдм\lab4\Combinations\bin\Debug\Combinations.exe.config
+C:\Users\borei\OneDrive\Рабочий стол\кдм\lab4\Combinations\bin\Debug\Combinations.exe
+C:\Users\borei\OneDrive\Рабочий стол\кдм\lab4\Combinations\bin\Debug\Combinations.pdb
+C:\Users\borei\OneDrive\Рабочий стол\кдм\lab4\Combinations\obj\Debug\Combinations.csprojAssemblyReference.cache
+C:\Users\borei\OneDrive\Рабочий стол\кдм\lab4\Combinations\obj\Debug\Combinations.Form1.resources
+C:\Users\borei\OneDrive\Рабочий стол\кдм\lab4\Combinations\obj\Debug\Combinations.Properties.Resources.resources
+C:\Users\borei\OneDrive\Рабочий стол\кдм\lab4\Combinations\obj\Debug\Combinations.csproj.GenerateResource.cache
+C:\Users\borei\OneDrive\Рабочий стол\кдм\lab4\Combinations\obj\Debug\Combinations.exe
+C:\Users\borei\OneDrive\Рабочий стол\кдм\lab4\Combinations\obj\Debug\Combinations.pdb
+G:\КДМ\кдм\lab4\Combinations\bin\Debug\Combinations.exe.config
+G:\КДМ\кдм\lab4\Combinations\bin\Debug\Combinations.exe
+G:\КДМ\кдм\lab4\Combinations\bin\Debug\Combinations.pdb
+G:\КДМ\кдм\lab4\Combinations\obj\Debug\Combinations.csprojAssemblyReference.cache
+G:\КДМ\кдм\lab4\Combinations\obj\Debug\Combinations.Form1.resources
+G:\КДМ\кдм\lab4\Combinations\obj\Debug\Combinations.Properties.Resources.resources
+G:\КДМ\кдм\lab4\Combinations\obj\Debug\Combinations.csproj.GenerateResource.cache
+G:\КДМ\кдм\lab4\Combinations\obj\Debug\Combinations.exe
+G:\КДМ\кдм\lab4\Combinations\obj\Debug\Combinations.pdb
+G:\КДМ\lab03\Combinations\bin\Debug\Combinations.exe.config
+G:\КДМ\lab03\Combinations\bin\Debug\Combinations.exe
+G:\КДМ\lab03\Combinations\bin\Debug\Combinations.pdb
+G:\КДМ\lab03\Combinations\obj\Debug\Combinations.csprojAssemblyReference.cache
+G:\КДМ\lab03\Combinations\obj\Debug\Combinations.Form1.resources
+G:\КДМ\lab03\Combinations\obj\Debug\Combinations.Properties.Resources.resources
+G:\КДМ\lab03\Combinations\obj\Debug\Combinations.csproj.GenerateResource.cache
+G:\КДМ\lab03\Combinations\obj\Debug\Combinations.exe
+G:\КДМ\lab03\Combinations\obj\Debug\Combinations.pdb
