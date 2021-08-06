@@ -1,0 +1,12 @@
+C:\Users\misha\Source\Repos\oop-lab7\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\misha\Source\Repos\oop-lab7\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\misha\Source\Repos\oop-lab7\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\misha\Source\Repos\oop-lab7\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\misha\Source\Repos\oop-lab7\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\misha\Source\Repos\oop-lab7\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\misha\Source\Repos\oop-lab72\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\misha\Source\Repos\oop-lab72\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\misha\Source\Repos\oop-lab72\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\misha\Source\Repos\oop-lab72\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\misha\Source\Repos\oop-lab72\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\misha\Source\Repos\oop-lab72\ClassLibrary\obj\Debug\ClassLibrary.pdb

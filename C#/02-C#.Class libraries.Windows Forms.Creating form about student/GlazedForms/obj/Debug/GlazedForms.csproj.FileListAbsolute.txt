@@ -1,0 +1,10 @@
+C:\Users\misha\Source\Repos\oop-lab6\GlazedForms\bin\Debug\GlazedForms.exe.config
+C:\Users\misha\Source\Repos\oop-lab6\GlazedForms\bin\Debug\GlazedForms.exe
+C:\Users\misha\Source\Repos\oop-lab6\GlazedForms\bin\Debug\GlazedForms.pdb
+C:\Users\misha\Source\Repos\oop-lab6\GlazedForms\obj\Debug\GlazedForms.csprojAssemblyReference.cache
+C:\Users\misha\Source\Repos\oop-lab6\GlazedForms\obj\Debug\GlazedForms.Form1.resources
+C:\Users\misha\Source\Repos\oop-lab6\GlazedForms\obj\Debug\GlazedForms.Properties.Resources.resources
+C:\Users\misha\Source\Repos\oop-lab6\GlazedForms\obj\Debug\GlazedForms.csproj.GenerateResource.cache
+C:\Users\misha\Source\Repos\oop-lab6\GlazedForms\obj\Debug\GlazedForms.csproj.CoreCompileInputs.cache
+C:\Users\misha\Source\Repos\oop-lab6\GlazedForms\obj\Debug\GlazedForms.exe
+C:\Users\misha\Source\Repos\oop-lab6\GlazedForms\obj\Debug\GlazedForms.pdb

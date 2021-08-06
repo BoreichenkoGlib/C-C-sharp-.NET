@@ -1,0 +1,26 @@
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\lenovo\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lenovo\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lenovo\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lenovo\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lenovo\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\borei\OneDrive\Рабочий стол\777\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\borei\OneDrive\Рабочий стол\777\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\borei\OneDrive\Рабочий стол\777\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\borei\OneDrive\Рабочий стол\777\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\borei\OneDrive\Рабочий стол\777\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\borei\OneDrive\Рабочий стол\777\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\КДМ\кдм\lab4 aki\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\КДМ\кдм\lab4 aki\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\КДМ\кдм\lab4 aki\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\КДМ\кдм\lab4 aki\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+G:\КДМ\кдм\lab4 aki\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\КДМ\кдм\lab4 aki\КДМ Балан Акім ЛР4 КІ-4[1]\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

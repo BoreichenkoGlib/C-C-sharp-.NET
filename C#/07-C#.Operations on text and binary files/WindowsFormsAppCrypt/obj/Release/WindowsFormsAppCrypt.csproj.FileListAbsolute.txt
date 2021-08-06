@@ -1,0 +1,13 @@
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\bin\Release\WindowsFormsAppCrypt.exe.config
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\bin\Release\WindowsFormsAppCrypt.exe
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\bin\Release\WindowsFormsAppCrypt.pdb
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\bin\Release\ClassLibrary.dll
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\bin\Release\ClassLibrary.pdb
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\obj\Release\WindowsFormsAppCrypt.csprojAssemblyReference.cache
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\obj\Release\WindowsFormsAppCrypt.Form1.resources
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\obj\Release\WindowsFormsAppCrypt.Properties.Resources.resources
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\obj\Release\WindowsFormsAppCrypt.csproj.GenerateResource.cache
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\obj\Release\WindowsFormsAppCrypt.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\obj\Release\WindowsFormsAppCrypt.csproj.CopyComplete
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\obj\Release\WindowsFormsAppCrypt.exe
+C:\Users\misha\source\repos\WindowsFormsAppCrypt\WindowsFormsAppCrypt\obj\Release\WindowsFormsAppCrypt.pdb

@@ -1,0 +1,5 @@
+C:\Users\misha\source\repos\oop-lab72\DrawLibrary\obj\Debug\DrawLibrary.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\oop-lab72\DrawLibrary\bin\Debug\DrawLibrary.dll
+C:\Users\misha\source\repos\oop-lab72\DrawLibrary\bin\Debug\DrawLibrary.pdb
+C:\Users\misha\source\repos\oop-lab72\DrawLibrary\obj\Debug\DrawLibrary.dll
+C:\Users\misha\source\repos\oop-lab72\DrawLibrary\obj\Debug\DrawLibrary.pdb

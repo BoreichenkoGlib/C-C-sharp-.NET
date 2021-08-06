@@ -1,0 +1,4 @@
+C:\Users\misha\Source\Repos\oop-lab72\ClassLibrary\ClassDraw\obj\Debug\ClassDraw.csprojAssemblyReference.cache
+C:\Users\misha\Source\Repos\oop-lab72\ClassLibrary\ClassDraw\obj\Debug\ClassDraw.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\oop-lab72\ClassDraw\obj\Debug\ClassDraw.csprojAssemblyReference.cache
+C:\Users\misha\source\repos\oop-lab72\ClassDraw\obj\Debug\ClassDraw.csproj.CoreCompileInputs.cache
